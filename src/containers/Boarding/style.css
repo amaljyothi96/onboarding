@@ -1,0 +1,12 @@
+.boardingContainer {
+    flex-direction: column;
+    height: 100% !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.boardingContainer > #welcmCont, #titleIcn, #stepper  {
+    position: relative;
+    top: 180px;
+}
