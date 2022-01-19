@@ -1,0 +1,65 @@
+.textFieldContainer {
+    margin-bottom: 15px;
+    width: -webkit-fill-available;
+}
+
+.label {
+    color: #364259;
+    font-family: 'Inter' , sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    margin: 8px 0px;
+}
+
+.field {
+    color: #8b97b1;
+    width: -webkit-fill-available;
+    height: 48px;
+    border-width: 1px;
+    border-radius: 6px;
+    border-color: #eaeef5;
+    border-style: solid;
+    font-size: 14px;
+    font-family: 'Inter' , sans-serif;
+    padding: 0px 12px;
+}
+
+.field:focus-visible {
+    outline: none;
+}
+
+.field::placeholder {
+    color: #8b97b1;
+  }
+
+.flex {
+    display: flex;
+}
+
+.preText {
+    color: #8b97b1;
+    border-width: 1px;
+    border-radius: 6px;
+    border-color: #eaeef5;
+    border-style: solid;
+    font-size: 14px;
+    font-family: 'Inter' , sans-serif;
+    padding: 0px 12px;  
+    background-color: #f8f9fc;
+    max-width: 110px;
+}
+
+.preText:focus-visible {
+    outline: none;
+}
+
+.preText::placeholder {
+    color: #8b97b1;
+}
+
+.postLabel {
+    font-family: 'Inter' , sans-serif;
+    font-size: 14px;
+    margin: 8px 0px;
+    color: #b8c2d6; 
+}

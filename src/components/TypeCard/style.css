@@ -1,0 +1,28 @@
+.cardContainer {
+    width: 159px;
+    height: 159px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    padding: 4px;
+    border-width: 1px;
+    border-radius: 6px;
+    border-color: #ecf0f6;
+    border-style: solid;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.icon {
+    margin: 10px 15px 5px 15px; 
+}
+
+.cardTitle {
+    color: #2b3346;
+    margin: 15px;
+    font-weight: bold;
+}
+
+.description {
+    margin: 15px;
+    color: #8d95a8;
+}

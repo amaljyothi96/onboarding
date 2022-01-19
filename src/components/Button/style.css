@@ -1,0 +1,10 @@
+.buttonClass {
+    background-color: #664de5;
+    color: white;
+    width: -webkit-fill-available;
+    font-family: 'Inter', sans-serif;
+    border: none;
+    border-radius: 7px;
+    height: 48px;
+    margin-top: 10px;
+}
